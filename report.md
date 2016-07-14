@@ -92,42 +92,12 @@ LaTeX_End -->
 </li>
 <li><strong>Lower Right Panel</strong> The conditional distribution provides the context against which a student’s 2012 achievement can be examined and provides the basis for a norm-referenced comparison. Students with achievement in the upper tail of the conditional distribution have demonstrated high rates of growth relative to their academic peers whereas those students with achievement in the lower tail of the distribution have demonstrated low rates of growth. Students with current achievement in the middle of the distribution could be described as demonstrating “average” or “typical” growth. In the figure provided the student scores approximately 500 on the 2012 test. Within the conditional distribution, the value of 500 lies at the 75<sup>th</sup> percentile. Thus the student’s progress from 460 in 2011 to 500 in 2012 met or exceeded that of 75 percent of students starting from the same place. It is important to note that qualifying a student growth percentile as “adequate”, “good”, or “enough” is a standard setting procedure that requires stakeholders to examine a student’s growth <em>vis-a-vis</em> external criteria such as performance standards/levels.</li>
 </ul>
-<!-- HTML_Start -->
-<!-- LaTeX_Start 
-\pagebreak
-LaTeX_End -->
-<!--
+
+
 ###### **Fig. B.1:**   Depiction of the distribution associated with 2011 and 2012 student scale scores together with the conditional distribution and associated growth percentile.
-![](../img/Appendices/SGP_Method/bidensity_p1.jpg) ![](../img/Appendices/SGP_Method/bidensity_p2.jpg) ![](../img/Appendices/SGP_Method/bidensity_p3.jpg) ![](../img/Appendices/SGP_Method/bidensity_p4.jpg)
--->
-<!-- HTML_Start -->
-<div class="section level6">
-<h6><h6>
-<strong>Fig. B.1:</strong> Depiction of the distribution associated with 2011 and 2012 student scale scores together with the conditional distribution and associated growth percentile.
-</h6>
-<p>
-<img src="img/Appendices/SGP_Method/bidensity_p1.jpg" width=50% /> <img src="img/Appendices/SGP_Method/bidensity_p2.jpg" width=50% /> <img src="img/Appendices/SGP_Method/bidensity_p3.jpg" width=50% /> <img src="img/Appendices/SGP_Method/bidensity_p4.jpg" width=50% />
-</p>
-</div>
-<!-- LaTeX_Start 
-\begin{figure}[H]
-\caption*{\label{fig:Bidensity} {\bf{Fig. B.1:}} Depiction of the distribution associated with 2011 and 2012 student scale scores together with the conditional distribution and associated growth percentile.}
-  \begin{subfigure}[b]{0.5\textwidth}
-    \includegraphics[width=\textwidth]{../img/Appendices/SGP_Method/bidensity_p1.jpg}
-  \end{subfigure}
-  %
-  \begin{subfigure}[b]{0.5\textwidth}
-    \includegraphics[width=\textwidth]{../img/Appendices/SGP_Method/bidensity_p2.jpg}
-  \end{subfigure}
-  \begin{subfigure}[b]{0.5\textwidth}
-    \includegraphics[width=\textwidth]{../img/Appendices/SGP_Method/bidensity_p3.jpg}
-  \end{subfigure}
-  %
-  \begin{subfigure}[b]{0.5\textwidth}
-    \includegraphics[width=\textwidth]{../img/Appendices/SGP_Method/bidensity_p4.jpg}
-  \end{subfigure}
-\end{figure}
-LaTeX_End -->
+![](img/Appendices/SGP_Method/bidensity_p1.jpg) ![](img/Appendices/SGP_Method/bidensity_p2.jpg) ![](img/Appendices/SGP_Method/bidensity_p3.jpg) ![](img/Appendices/SGP_Method/bidensity_p4.jpg)
+
+
 <p>Figure B.1 also serves to illustrate the relationship between the state’s assessment scale and student growth percentiles. The scale depicted in the panels of Figure B.1 is not vertical. Thus the comparisons or subtraction of scale scores for individual students is not supported. However, were such a scale in place, the figure would not change. With or without a vertical scale, the conditional distribution can be constructed.</p>
 <p>In situations where a vertical scale exists, the increase/decrease in scale score points can be calculated and the growth percentile can be understood alongside this change. For example, were the scales presented in Figure B.1 vertical, then one can calculate that the student grew 40 points (from 460 to 500) between 2011 and 2012. This 40 points represents the absolute magnitude of change. Quantifying the magnitude of change is scale dependent. For example, different vertical achievement scales in 2011 and 2012 would yield different annual scale score increases: A scale score increase of 40 could be changed to a scale score increase of 10 using a simple transformation of the vertical scale on which all the students are measured. However, relative to other students, their growth has not changed - their growth percentile is invariant to scale transformations common in educational assessment. Student growth percentiles norm-referencedly situate achievement change bypassing questions associated with the magnitude of change, and directing attention toward relative standing which, we would assert, is what stakeholders are most interested in.</p>
 <p>To fully understand how many states intend to use growth percentiles to make determinations about whether a student’s growth is sufficient, the next section details specifics of how student growth percentiles are calculated. These calculations are subsequently used to calculate percentile growth projections/trajectories that are used to establish how much growth it will take for each student to reach his/her achievement targets.</p>
