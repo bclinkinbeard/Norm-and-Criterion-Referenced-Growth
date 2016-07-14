@@ -106,7 +106,7 @@ LaTeX_End -->
 <strong>Fig. B.1:</strong> Depiction of the distribution associated with 2011 and 2012 student scale scores together with the conditional distribution and associated growth percentile.
 </h6>
 <p>
-<img src="Appendix_B_files/../img/Appendices/SGP_Method/bidensity_p1.jpg" width=50% /> <img src="Appendix_B_files/../img/Appendices/SGP_Method/bidensity_p2.jpg" width=50% /> <img src="Appendix_B_files/../img/Appendices/SGP_Method/bidensity_p3.jpg" width=50% /> <img src="Appendix_B_files/../img/Appendices/SGP_Method/bidensity_p4.jpg" width=50% />
+<img src="./img/Appendices/SGP_Method/bidensity_p1.jpg" width=50% /> <img src="./img/Appendices/SGP_Method/bidensity_p2.jpg" width=50% /> <img src="./img/Appendices/SGP_Method/bidensity_p3.jpg" width=50% /> <img src="./img/Appendices/SGP_Method/bidensity_p4.jpg" width=50% />
 </p>
 </div>
 <!-- LaTeX_Start 
@@ -360,7 +360,7 @@ LaTeX_End -->
 <strong>Fig. B.2:</strong> Linear and B-spline conditional deciles based upon bivariate math data, grades 5 and 6.
 </h6>
 <p>
-<img src="Appendix_B_files/../img/Appendices/SGP_Method/linearquantileplot.png" width=50% /> <img src="Appendix_B_files/../img/Appendices/SGP_Method/bsplinequantileplot.png" width=50% />
+<img src="./img/Appendices/SGP_Method/linearquantileplot.png" width=50% /> <img src="./img/Appendices/SGP_Method/bsplinequantileplot.png" width=50% />
 </p>
 </div>
 <!-- LaTeX_Start 
